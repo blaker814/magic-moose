@@ -52,7 +52,7 @@ namespace MagicMoose
         static void Answer()
         {
             Random r = new Random();
-            int randNum = r.Next(1, 20);
+            int randNum = r.Next(1, 21);
 
             switch (randNum)
             {
